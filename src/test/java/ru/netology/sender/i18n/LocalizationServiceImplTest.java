@@ -1,4 +1,4 @@
-package ru.netology.sender.geo;
+package ru.netology.sender.i18n;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
